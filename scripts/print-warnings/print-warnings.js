@@ -6,7 +6,7 @@
  */
 'use strict';
 
-const babelParser = require('@babel/parser');
+const babelParser = require('@babel/parser'); 
 const fs = require('fs');
 const through = require('through2');
 const traverse = require('@babel/traverse').default;
