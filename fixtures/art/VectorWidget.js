@@ -4,7 +4,7 @@
  * This source code is licensed under the MIT license found in the
  * LICENSE file in the root directory of this source tree.
  */
-'use strict';
+'use strict';ddd
 
 var Circle = require('react-art/Circle');
 var React = require('react');
